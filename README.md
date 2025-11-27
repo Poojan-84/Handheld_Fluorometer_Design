@@ -212,8 +212,8 @@ Battery Management: Add battery level monitoring via a voltage divider on an ESP
 
 Credits
 
-Lead Developer: [Your Name]
+Lead Developer: Poojan Virani
 
-Supervisor: [Professor's Name]
+Supervisor: Dr. Mainak Banerjee
 
-Institution: [Your University/College]
+Institution: Bits Pilani Goa Campus

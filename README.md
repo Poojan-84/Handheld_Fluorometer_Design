@@ -1,4 +1,4 @@
-# Open Source Handheld Fluorometer 🧪💡
+# Handheld Fluorometer
 
 A low-cost, portable, **ESP32-based** fluorometer designed for field chemical analysis. This project integrates precise optical sensing with modern digital processing to measure fluorescence in liquid samples.
 
